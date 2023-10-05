@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/miner_start.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Miner Start
+Name=Miner Start
+Comment[en_US]=Starts the miner script after login
+Comment=Starts the miner script after login
